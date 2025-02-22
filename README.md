@@ -1,3 +1,1 @@
-commit 1
-
-commit 2
+This is a simple example of a Python package that uses the `poetry` package manager.
